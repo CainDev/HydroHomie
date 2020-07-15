@@ -1,6 +1,9 @@
 # Hydro Homie! 🌊🌊
 This is basically a fancy timer that remind you to drink a small cup of water every X minutes.
 
+# Don't care about development and just want the application itself?
+Click <a href="https://github.com/gothboiclique/HydroHomie/raw/master/Compiled%20Exe/HydroHomie.exe">Here!</a>
+
 ## Features
 > Custom timer (30 Minutes - 2 Hours)
 
