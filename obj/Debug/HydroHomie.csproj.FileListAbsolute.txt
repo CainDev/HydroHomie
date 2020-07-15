@@ -1,0 +1,10 @@
+C:\Users\Joel\source\repos\HydroHomie\bin\Debug\HydroHomie.exe.config
+C:\Users\Joel\source\repos\HydroHomie\bin\Debug\HydroHomie.exe
+C:\Users\Joel\source\repos\HydroHomie\bin\Debug\HydroHomie.pdb
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.MainForm.resources
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.NotificationForm.resources
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.Properties.Resources.resources
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.exe
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.pdb
