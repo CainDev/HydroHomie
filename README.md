@@ -1,4 +1,4 @@
-# Hydro Homie!
+# Hydro Homie! 🌊🌊
 This is basically a fancy timer that remind you to drink a small cup of water every X minutes.
 
 ## Features
