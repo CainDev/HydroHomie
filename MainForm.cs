@@ -19,6 +19,7 @@ namespace HydroHomie
         int timerTickRate = 3600;
         int currTimerTicks = 0;
         HydroFactsClass facts = new HydroFactsClass();
+        FileReadWriteClass fileClass = new FileReadWriteClass();
 
         public MainForm()
         {
@@ -26,7 +27,9 @@ namespace HydroHomie
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {   
+        {
+            fileClass.CreateFolder();
+            label1.Text = $"Cups Consumed: {Convert.ToString(fileClass.ReadCups())}";
             HydroHomieNotifTimer.Start();
             HydroHomie.BalloonTipTitle = "Hydro Homie!";
         }
@@ -90,8 +93,12 @@ namespace HydroHomie
 
             if(currTimerTicks > oldTimerTicks + timerTickRate)
             {
+                SetNotifTime();
                 oldTimerTicks = currTimerTicks;                     
                 HydroHomie.ShowBalloonTip(3000);
+                fileClass.cupsDrunk++;
+                fileClass.WriteCups(fileClass.cupsDrunk);
+                label1.Text = $"Cups Consumed: {Convert.ToString(fileClass.ReadCups())}";
 
                 if (facts.showFacts)
                 {

@@ -8,3 +8,8 @@ C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.Properties.Resources.
 C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.csproj.GenerateResource.cache
 C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.exe
 C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.pdb
+C:\Users\Joel\source\repos\HydroHomie\bin\Debug\HydroHomie.exe.manifest
+C:\Users\Joel\source\repos\HydroHomie\bin\Debug\HydroHomie.application
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.TrustInfo.xml
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.exe.manifest
+C:\Users\Joel\source\repos\HydroHomie\obj\Debug\HydroHomie.application
